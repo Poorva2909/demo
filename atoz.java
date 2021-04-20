@@ -1,7 +1,7 @@
 public class Abc
 {
 	public static void main(String args[])
-{ 
-System.out.println("Hello XYZ");
-}
+	{ 
+		System.out.println("Hello a to z");
+	}
 }
